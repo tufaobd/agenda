@@ -15,3 +15,11 @@
             </div>
         </div>
     </form>
+
+    <br>
+
+    <div class="links">
+        <a href="{{route('contatos.index')}}">Contatos</a>
+        <a href="{{route('mensagens.index')}}">Mensagens</a>
+        <a href="https://github.com/tufaobd/agenda">GitHub</a>
+    </div>
