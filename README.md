@@ -37,7 +37,7 @@ Criação de Agenda usando Laravel, frontend será adicionado no dia 02/03/2020
  
  
  ## API EXAMPLE
-localhost:8080/mensagens
-localhost:8080/contatos
+ - localhost:8080/mensagens
+ - localhost:8080/contatos
 
 
