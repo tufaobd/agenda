@@ -1,4 +1,4 @@
-# agenda
+## Agenda
 Criação de Agenda usando Laravel
 
 
@@ -17,4 +17,12 @@ Inside docker -> composer install
 I will put boostrap to make visual better.
 
 
+File .env include on git
 
+Information about conection on database
+DB_CONNECTION=mysql
+DB_HOST=mysql
+DB_PORT=3306
+DB_DATABASE=php
+DB_USERNAME=root
+DB_PASSWORD=super
