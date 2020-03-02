@@ -18,6 +18,8 @@ Criação de Agenda usando Laravel, frontend será adicionado no dia 02/03/2020
 `X-CSRF-TOKEN : {{token}}`
 
     X-Requested-With: XMLHttpRequest
+    
+
 
 ## I will put bootstrap to make visual better.
 
@@ -33,5 +35,9 @@ Criação de Agenda usando Laravel, frontend será adicionado no dia 02/03/2020
  - DB_USERNAME=root
  - DB_PASSWORD=super
  
+ 
+ ## API EXAMPLE
+localhost:8080/mensagens
+localhost:8080/contatos
 
 
